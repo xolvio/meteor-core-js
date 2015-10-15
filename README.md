@@ -9,7 +9,7 @@ for the ES2015 (and ES2016) APIs [yet](https://github.com/meteor/meteor/issues/5
 
 ## How to use
 
-Add `xolvio:corejs` on the top of your .meteor/packages file in your app.
+Add `xolvio:core-js` on the top of your .meteor/packages file in your app.
 
 ## Maintenance
 
